@@ -28,7 +28,7 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Whoami-0101&show_icons=false&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Dagama&show_icons=false&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
