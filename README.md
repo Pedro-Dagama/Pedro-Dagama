@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro, tenho 22 anos e sou natural do Guarujá-SP. Atualmente, estou cursando Desenvolvimento de Sistemas na o Centro Estadual de Educação
+Me chamo Pedro, tenho 22 anos e sou natural do Guarujá-SP. Atualmente, estou cursando Desenvolvimento de Sistemas em Centro Estadual de Educação
 Tecnológica Paula Souza. Sou apaixonado por tecnologia.
 
 <p align="left"> 
