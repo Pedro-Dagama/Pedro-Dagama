@@ -135,15 +135,7 @@ Tecnológica Paula Souza. Sou apaixonado por tecnologia.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Pedro-Dagama&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
+![Pedro-Dagama's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-dagama&show_icons=true&theme=radical)
 <img 
       align="left" 
       alt="GitHub Stats" 
