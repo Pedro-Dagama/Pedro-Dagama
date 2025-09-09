@@ -1,146 +1,94 @@
 # 👨🏾‍💻 Pedro Higor
 
-**`Desenvolvedor FullStack`**
+**Desenvolvedor FullStack | Apaixonado por Tecnologia e Inovação**
 
-Me chamo Pedro, tenho 22 anos e sou natural do Guarujá-SP. Atualmente, estou cursando Desenvolvimento de Sistemas em Centro Estadual de Educação
-Tecnológica Paula Souza. Sou apaixonado por tecnologia.
+Olá! Sou **Pedro Higor**, tenho 22 anos e sou natural do **Guarujá-SP**.  
+Atualmente, estudo **Desenvolvimento de Sistemas** no **Centro Paula Souza** e sou apaixonado por **criar soluções web que unem design e funcionalidade**.  
 
-<p align="left"> 
-    <a href="https://github.com/Pedro-Dagama?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Pedro-Dagama?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Pedro-Dagama?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Pedro-Dagama?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+💡 **Sobre mim:**  
+- Adoro aprender novas tecnologias e aprimorar minhas habilidades constantemente.  
+- Busco transformar ideias em projetos reais e funcionais.  
+- Interessado em **front-end, back-end e soluções completas fullstack**.  
+- Amo **café, filosofia e literatura**, que inspiram minha criatividade e pensamento crítico.  
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://github.com/Pedro-Dagama">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Pedro--Dagama-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-higor-gama/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Higor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pedrohigor@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-pedrohigor@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 💻 Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+<p align="center">
+  <img alt="HTML" title="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="React" title="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="Bootstrap" title="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="PHP" title="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img alt="jQuery" title="jQuery" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="C#" title="C#" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/csharp/csharp-original.svg" />
+</p>
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+---
+
+## 🌟 Qualidades e Soft Skills
+
+- 💡 Criatividade e inovação  
+- 🧠 Pensamento analítico e crítico  
+- 🤝 Trabalho em equipe e colaboração  
+- 🕒 Organização e gerenciamento de tempo  
+- 🚀 Proatividade e vontade de aprender  
+
+---
+
+## 📊 Estatísticas do GitHub
 
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+<p align="center">
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pedro-dagama&show_icons=true&theme=radical&count_private=true&hide_border=true" 
+    alt="Estatísticas do GitHub" 
+    height="200"
+    width="400"
+    style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" 
+  />
 
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/csharp/csharp-original.svg" 
-/>
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-![Pedro-Dagama's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-dagama&show_icons=true&theme=radical)
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Dagama&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Dagama&theme=radical&layout=compact&langs_count=9&hide=html,css&hide_border=true" 
+    alt="Top Linguagens" 
+    height="200" 
+    width="400"
+    style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" 
   />
 
 </p>
+
+---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pedro-Dagama&color=green" alt="Visualizações de Perfil" />
+</p>
+
+---
+
+> “A tecnologia é a melhor aliada de quem busca transformar ideias em realidade.” 🚀  
+> Vamos construir algo incrível juntos!
