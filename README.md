@@ -23,7 +23,7 @@ Atualmente, estudo **Desenvolvimento de Sistemas** no **Centro Paula Souza** e s
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Higor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pedrohigor082019@outlook.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-pedrohigor@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-pedrohigor082019@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
