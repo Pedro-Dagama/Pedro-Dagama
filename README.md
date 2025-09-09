@@ -19,10 +19,10 @@ Atualmente, estudo **Desenvolvimento de Sistemas** no **Centro Paula Souza** e s
   <a href="https://github.com/Pedro-Dagama">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Pedro--Dagama-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/pedro-higor-gama/">
+  <a href="https://www.linkedin.com/in/pedrohigor001/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Higor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pedrohigor@example.com">
+  <a href="mailto:pedrohigor082019@outlook.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-pedrohigor@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
